@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeveloperKevin7
 - 👀 I’m interested in Android Development 
-- 🌱 I’m currently learning JavaScript Advanced
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Android Apps
 - 📫 How to reach me , email: kevinsp0906@gmail.com
 
